@@ -22,8 +22,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-    git clone git@github.com:jevazquezb/hello_rails_back_end.git
-    cd hello_rails_back_end
+    git clone https://github.com/aizjicod/hello-backend-rails.git
+    cd hello-backend-rails
 
 ### Install
 
