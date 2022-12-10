@@ -1,4 +1,4 @@
-## Copyright 2022, Jesús Vázquez
+## Copyright 2022, Alejandro Torres
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this API and associated documentation files, to deal in the API without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the API, and to permit persons to whom the API is furnished to do so, subject to the following conditions:
 
