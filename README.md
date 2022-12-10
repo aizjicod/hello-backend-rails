@@ -50,8 +50,8 @@ Go to [http://localhost:4000/api/v1/greetings](http://localhost:4000/api/v1/gree
 
 ### Front-end
 
-- [Repository](handler).
-- [Pull request](hanlder).
+- [Repository](https://github.com/aizjicod/hello-react-rails-frontend).
+- [Pull request](https://github.com/aizjicod/hello-react-rails-frontend/pull/1).
 
 ## Authors
 
